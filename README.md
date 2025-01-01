@@ -7,10 +7,12 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
