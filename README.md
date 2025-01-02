@@ -9,11 +9,13 @@ This repository contains Leetcode questions- DSA in Java.
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +32,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0012-integer-to-roman](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
