@@ -9,6 +9,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -59,4 +60,12 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
