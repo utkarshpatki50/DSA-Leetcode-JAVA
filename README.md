@@ -12,6 +12,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -20,11 +21,13 @@ This repository contains Leetcode questions- DSA in Java.
 | [0011-container-with-most-water](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
