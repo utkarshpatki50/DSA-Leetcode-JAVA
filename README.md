@@ -16,6 +16,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
+| [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -25,12 +26,14 @@ This repository contains Leetcode questions- DSA in Java.
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
+| [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
