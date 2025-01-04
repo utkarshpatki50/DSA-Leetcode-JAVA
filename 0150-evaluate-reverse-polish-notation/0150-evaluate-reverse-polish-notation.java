@@ -1,7 +1,7 @@
 class Solution {
 
-    private boolean isOperator(String token) {
-        return token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/");
+    private boolean isOperator(String ch) {
+        return ch.equals("+") || ch.equals("-") || ch.equals("*") || ch.equals("/");
     }
 
     public int evalRPN(String[] tokens) {
