@@ -6,11 +6,12 @@ class Solution {
     // For nums[mid] == 0 or 1: You always increment mid, as their placement is
     // final after processing.
 
+    //DUTCH-NATIONAL FLAG ALGORITHM
+
     public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
-        
     }
 
     public void sortColors(int[] nums) {
