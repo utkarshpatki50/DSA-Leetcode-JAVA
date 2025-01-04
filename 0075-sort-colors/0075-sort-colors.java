@@ -1,5 +1,11 @@
 class Solution {
 
+    // General Rule:
+    // For nums[mid] == 2: Don’t increment mid after swapping, because the swapped
+    // value might not be in its correct position and requires re-evaluation.
+    // For nums[mid] == 0 or 1: You always increment mid, as their placement is
+    // final after processing.
+
     public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
