@@ -12,6 +12,7 @@ class Solution {
         }
         
         for(int i=0; i<n; i++){
+            
             int a=0, b=m-1;
             while(a<b){
                 int temp= matrix[i][a];
