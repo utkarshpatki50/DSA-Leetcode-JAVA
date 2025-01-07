@@ -52,6 +52,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
