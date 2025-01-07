@@ -4,8 +4,8 @@ class Solution {
         int slow = nums[0], fast = nums[0];
 
         do {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
+            slow = nums[slow];   //move by one
+            fast = nums[nums[fast]];   //move by two
 
         } while (slow != fast);
 
@@ -14,7 +14,6 @@ class Solution {
             slow = nums[slow];
             fast = nums[fast];
         }
-
         return slow;
     }
 }
