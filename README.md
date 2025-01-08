@@ -106,6 +106,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0136-single-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Linked List
 |  |
 | ------- |
