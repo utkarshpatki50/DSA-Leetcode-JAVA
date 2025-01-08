@@ -7,6 +7,9 @@ class Solution {
             int bbit = b & 1;
             int cbit = c & 1;
 
+            // If c_bit == 0, both a_bit and b_bit must be 0 to satisfy (a OR b == c).
+            // Flip each 1 in a_bit or b_bit to 0, so the number of flips needed is (a_bit + b_bit).
+
             if (cbit == 0) {
                 flips += abit + bbit;
             } else {
