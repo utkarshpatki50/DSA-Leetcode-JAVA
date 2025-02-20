@@ -12,7 +12,8 @@ class Solution {
 
             if (cbit == 0) {
                 flips += abit + bbit;
-            } else {
+            }
+             else {
                 if (abit == 0 && bbit == 0) {
                     flips += 1;
                 }
