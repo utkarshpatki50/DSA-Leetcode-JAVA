@@ -1,15 +1,16 @@
 class Solution {
 
-    private boolean isOperator(String ch) {
-        if (ch.equals("+") || ch.equals("-") || ch.equals("*") || ch.equals("/"))
+    public boolean isOperator(String ch) {
+        if (ch.equals("+") || ch.equals("-") || ch.equals("*") || ch.equals("/")) {
             return true;
+        }
         return false;
     }
 
     public int evalRPN(String[] tokens) {
         int n = tokens.length;
-        Stack<Integer> st = new Stack<>();
         int ans = 0;
+        Stack<Integer> st = new Stack<>();
 
         for (int i = 0; i < n; i++) {
             String ch = tokens[i];
@@ -23,7 +24,7 @@ class Solution {
                     ans = b - a;
                 } else if (ch.equals("*")) {
                     ans = a * b;
-                } else {
+                } else if (ch.equals("/")) {
                     ans = b / a;
                 }
                 st.push(ans);
