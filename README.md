@@ -21,6 +21,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0012-integer-to-roman](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +126,5 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
