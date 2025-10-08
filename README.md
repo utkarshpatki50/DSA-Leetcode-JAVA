@@ -20,6 +20,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -90,6 +91,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
