@@ -133,4 +133,20 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
