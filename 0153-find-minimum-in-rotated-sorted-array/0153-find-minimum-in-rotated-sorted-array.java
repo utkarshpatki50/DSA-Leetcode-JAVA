@@ -7,6 +7,7 @@ class Solution {
             int mid= low + (high-low)/2;
 
             if(nums[mid] > nums[high]){
+                //small elememt is present in right half
                 low= mid+1;
             }
             else{
