@@ -70,6 +70,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0014-longest-common-prefix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +109,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
