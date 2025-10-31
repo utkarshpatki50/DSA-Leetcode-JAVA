@@ -93,6 +93,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
 ## Divide and Conquer
@@ -121,6 +122,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Linked List
@@ -144,6 +146,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0100-same-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,4 +165,5 @@ This repository contains Leetcode questions- DSA in Java.
 | [0100-same-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
