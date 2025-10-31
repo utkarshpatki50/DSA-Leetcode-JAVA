@@ -73,6 +73,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0058-length-of-last-word](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
+| [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -174,4 +175,8 @@ This repository contains Leetcode questions- DSA in Java.
 | [0199-binary-tree-right-side-view](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0404-sum-of-left-leaves) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
