@@ -34,6 +34,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0011-container-with-most-water](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -78,6 +79,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0013-roman-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
@@ -193,6 +195,7 @@ This repository contains Leetcode questions- DSA in Java.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 ## Monotonic Stack
 |  |
