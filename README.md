@@ -24,6 +24,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -94,6 +95,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
