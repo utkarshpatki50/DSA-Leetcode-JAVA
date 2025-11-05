@@ -35,6 +35,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
@@ -148,6 +149,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
