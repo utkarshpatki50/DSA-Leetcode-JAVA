@@ -42,6 +42,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
@@ -63,6 +64,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -153,6 +155,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
