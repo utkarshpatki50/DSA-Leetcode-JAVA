@@ -152,6 +152,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -163,6 +164,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 ## Sliding Window
