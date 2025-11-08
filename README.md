@@ -45,6 +45,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
@@ -136,6 +137,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
 ## Simulation
@@ -161,6 +163,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -170,6 +173,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0002-add-two-numbers](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
