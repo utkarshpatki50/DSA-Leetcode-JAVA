@@ -196,6 +196,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
@@ -206,6 +207,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
@@ -226,6 +228,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## String Matching
@@ -242,4 +245,8 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0169-majority-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
