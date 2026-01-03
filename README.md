@@ -26,6 +26,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -114,6 +115,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1572-matrix-diagonal-sum) |
@@ -152,6 +154,7 @@ This repository contains Leetcode questions- DSA in Java.
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
