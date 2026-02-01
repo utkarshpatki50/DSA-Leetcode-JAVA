@@ -3,17 +3,16 @@ class Solution {
         int l1 = word1.length();
         int l2 = word2.length();
 
-        int max = Math.max(l1, l2);
-
         StringBuilder ans = new StringBuilder();
+        int i = 0, j = 0;
 
-        for (int i = 0; i < max; i++) {
+        while (i < l1 || j < l2) {
             if (i < l1) {
-                ans.append(word1.charAt(i));
+                ans.append(word1.charAt(i++));
             }
 
-            if (i < l2) {
-                ans.append(word2.charAt(i));
+            if (j < l2) {
+                ans.append(word2.charAt(j++));
             }
         }
         return ans.toString();
