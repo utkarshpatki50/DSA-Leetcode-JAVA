@@ -23,6 +23,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0169-majority-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
@@ -267,4 +268,8 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
